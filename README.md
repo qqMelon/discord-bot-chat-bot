@@ -2,7 +2,9 @@
 
 ## Setup
 
-Setup env config with `.env` file or `config.json` file with Discord Token. Default was temporary `config.json` file.
+Setup env config with `.env` file or `config.json` file with Discord Token. By default `.env` was used.
+
+This app was hosted on [Fleek](https://fleek.co/)
 
 ## Features
 

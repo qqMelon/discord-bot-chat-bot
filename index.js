@@ -1,5 +1,7 @@
+require('dotenv').config()
 const { Client, Collection, Intents } = require('discord.js')
-const { token } = require('./config.json')
+// const { token } = require('./config.json')
+const token = process.env.BOT_TOKEN
 const path = require('node:path')
 const fs = require('node:fs')
 
